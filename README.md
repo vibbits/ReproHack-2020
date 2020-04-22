@@ -27,10 +27,10 @@ When selecting a paper, please keep in mind some of the following points:
 Join us at the hackaton and register [here](https://training.vib.be/reprohack-hackaton-reproducible-data-analysis).
 
 ## List of proposed papers
-**1. Assessing sub-cellular resolution in spatial proteomics experiments.**
-**Paper:** Assessing sub-cellular resolution in spatial proteomics experiments Laurent Gatto, Lisa M Breckels, Kathryn S Lilley (2019) Current Opinion in Chemical Biology, 48, pages 123-149 doi: https://doi.org/10.1016/j.cbpa.2018.11.015.
-**Why should we attempt to reproduce this paper?** There is a github repo with documentation on how to reproduce this paper including data, code and which packages should be installed. It would be interesting if it now, 4y after submission still runs or otherwise just dive in all the information that is given in the repository.
-**Paper URL:** https://doi.org/10.1016/j.cbpa.2018.11.015
-**Data URL:** https://github.com/lgatto/QSep-manuscript/
-**Code URL:** https://github.com/lgatto/QSep-manuscript/
-**Tags:** `proteomics`, `R`
+**1. Assessing sub-cellular resolution in spatial proteomics experiments.**   
+**Paper:** Assessing sub-cellular resolution in spatial proteomics experiments Laurent Gatto, Lisa M Breckels, Kathryn S Lilley (2019) Current Opinion in Chemical Biology, 48, pages 123-149 doi: https://doi.org/10.1016/j.cbpa.2018.11.015.  
+**Why should we attempt to reproduce this paper?** There is a github repo with documentation on how to reproduce this paper including data, code and which packages should be installed. It would be interesting if it now, 4y after submission still runs or otherwise just dive in all the information that is given in the repository.  
+**Paper URL:** https://doi.org/10.1016/j.cbpa.2018.11.015  
+**Data URL:** https://github.com/lgatto/QSep-manuscript/  
+**Code URL:** https://github.com/lgatto/QSep-manuscript/  
+**Tags:** `proteomics`, `R`  
