@@ -45,9 +45,9 @@ Laurent Gatto, Lisa M Breckels, Kathryn S Lilley (2019) Current Opinion in Chemi
 **Why should we attempt to reproduce this paper?** There is a nice web-interface to start using the data (www.brainimmuneatlas.org). The R codes that were used for scRNA-seq and bulk RNA-seq data analysis can be found on GitHub as well. Could be interesting to inspect. Gives us an entry point to analyze downstream analysis of sc/bulkRNA experiments.
 
 
-**Paper URL:** https://www.nature.com/articles/s41593-019-0393-4
-**Data URL:** https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE128855
-**Code URL:** https://github.com/saeyslab/brainimmuneatlas/
+**Paper URL:** https://www.nature.com/articles/s41593-019-0393-4  
+**Data URL:** https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE128855  
+**Code URL:** https://github.com/saeyslab/brainimmuneatlas/  
 
 **Tags:** `R`, `bulkRNA-seq`, `scRNA-seq` 
 
@@ -58,9 +58,9 @@ Laurent Gatto, Lisa M Breckels, Kathryn S Lilley (2019) Current Opinion in Chemi
 **Why should we attempt to reproduce this paper?** Both code and data is available in resp. GitHub and NCBI's GEO. It's possible that the analysis isn't going to work out-of-the-box and might be some issues with computing environment, etc.
 
 
-**Paper URL:** https://www.nature.com/articles/s41593-020-0618-6
-**Data URL:** https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4294087
-**Code URL:** https://github.com/saeyslab/MFs_peripheralCentralNerveSystem
+**Paper URL:** https://www.nature.com/articles/s41593-020-0618-6  
+**Data URL:** https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4294087  
+**Code URL:** https://github.com/saeyslab/MFs_peripheralCentralNerveSystem  
 
 
 **Tags:** `R`, `transcriptomics` 
@@ -72,12 +72,10 @@ Laurent Gatto, Lisa M Breckels, Kathryn S Lilley (2019) Current Opinion in Chemi
 **Why should we attempt to reproduce this paper?** Complete data analysis is available in GitHub in Notebooks with command-line tools & R working together. In theory it's just downloading the repo with notebooks and run them on a server (or in Google Colab) that can process them. However, there are a lot of notebooks and structure is unclear. It might not be possible due to too big data files. 
 
 
-**Paper URL:** https://www.biorxiv.org/content/10.1101/2020.07.06.188003v1.abstract
-
-**Data URL:** https://www.biorxiv.org/content/biorxiv/early/2020/07/06/2020.07.06.188003/DC1/embed/media-1.pdf?download=true 
-
-**Code URL:** https://github.com/pachterlab/GRNP_2020
-
+**Paper URL:** https://www.biorxiv.org/content/10.1101/2020.07.06.188003v1.abstract  
+**Data URL:** https://www.biorxiv.org/content/biorxiv/early/2020/07/06/2020.07.06.188003/DC1/embed/media-1.pdf?download=true   
+**Code URL:** https://github.com/pachterlab/GRNP_2020  
+ 
 
 **Tags:** `R`, `scRNA-seq`
 
