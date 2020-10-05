@@ -39,5 +39,47 @@ Laurent Gatto, Lisa M Breckels, Kathryn S Lilley (2019) Current Opinion in Chemi
 
 **Tags:** `proteomics`, `R`
 
-### 2. Your paper?    
+### 2. A single-cell atlas of mouse brain macrophages reveals unique transcriptional identities shaped by ontogeny and tissue environment  
+**Paper:** Van Hove, H., Martens, L., Scheyltjens, I., De Vlaminck, K., Antunes, A. R. P., De Prijck, S., ... & Aerts, J. (2019). A single-cell atlas of mouse brain macrophages reveals unique transcriptional identities shaped by ontogeny and tissue environment. Nature neuroscience, 22(6), 1021-1035.
+
+**Why should we attempt to reproduce this paper?** There is a nice web-interface to start using the data (www.brainimmuneatlas.org). The R codes that were used for scRNA-seq and bulk RNA-seq data analysis can be found on GitHub as well. Could be interesting to inspect. Gives us an entry point to analyze downstream analysis of sc/bulkRNA experiments.
+
+
+**Paper URL:** https://www.nature.com/articles/s41593-019-0393-4
+**Data URL:** https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE128855
+**Code URL:** https://github.com/saeyslab/brainimmuneatlas/
+
+**Tags:** `R`, `bulkRNA-seq`, `scRNA-seq` 
+
+### 3. Profiling peripheral nerve macrophages reveals two macrophage subsets with distinct localization, transcriptome and response to injury
+**Paper:** Ydens, E., Amann, L., Asselbergh, B., Scott, C. L., Martens, L., Sichien, D., Mossad, O., Blank, T., De Prijck, S., Low, D., Masuda, T., Saeys, Y., Timmerman, V., Stumm, R., Ginhoux, F., Prinz, M., Janssens, S., & Guilliams, M. (2020). Profiling peripheral nerve macrophages reveals two macrophage subsets with distinct localization, transcriptome and response to injury. Nature neuroscience, 23(5), 676–689. https://doi.org/10.1038/s41593-020-0618-6
+
+
+**Why should we attempt to reproduce this paper?** Both code and data is available in resp. GitHub and NCBI's GEO. It's possible that the analysis isn't going to work out-of-the-box and might be some issues with computing environment, etc.
+
+
+**Paper URL:** https://www.nature.com/articles/s41593-020-0618-6
+**Data URL:** https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4294087
+**Code URL:** https://github.com/saeyslab/MFs_peripheralCentralNerveSystem
+
+
+**Tags:** `R`, `transcriptomics` 
+
+### 4. Addressing the pooled amplification paradox with unique molecular identifiers in single-cell RNA-seq
+**Paper:** Gustafsson, J., Robinson, J., Nielsen, J., & Pachter, L. (2020). Addressing the pooled amplification paradox with unique molecular identifiers in single-cell RNA-seq. BioRxiv. https://doi.org/10.1101/2020.07.06.188003
+
+
+**Why should we attempt to reproduce this paper?** Complete data analysis is available in GitHub in Notebooks with command-line tools & R working together. In theory it's just downloading the repo with notebooks and run them on a server (or in Google Colab) that can process them. However, there are a lot of notebooks and structure is unclear. It might not be possible due to too big data files. 
+
+
+**Paper URL:** https://www.biorxiv.org/content/10.1101/2020.07.06.188003v1.abstract
+
+**Data URL:** https://www.biorxiv.org/content/biorxiv/early/2020/07/06/2020.07.06.188003/DC1/embed/media-1.pdf?download=true 
+
+**Code URL:** https://github.com/pachterlab/GRNP_2020
+
+
+**Tags:** `R`, `scRNA-seq`
+
+### 5. Your paper?    
 Nominate a paper by filling in [this link](https://forms.gle/VQCkWdifUhL6EWja8)  
