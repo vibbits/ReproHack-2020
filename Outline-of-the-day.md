@@ -47,8 +47,6 @@ Should you produce any additional materials relating to your reproduction during
 
 ----
 
-![logo](img/logo.png)
-
 <img src="img/logo.png" alt="reprohack" width=35%>
 
 This hackaton is based on the work of the ReproHack movement in the Netherlands which you can find at https://github.com/reprohack. In favor of a more Life Sciences related edition, this material was slightly adapted.
