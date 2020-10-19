@@ -6,41 +6,49 @@
 
 **Authors:** We encourage authors to be available for participants to reach out to for guidance or even just to say hello!
 
-**Participants:**
-1. Project review and team formation
+## 5.2 Planning for today:
 
-  -  We’ll start with a brief review of the papers proposed and then form into teams. Feel free to work on your own if you prefer but we highly recommend you discuss your experiences with fellow participants as you work.
+**1. Paper review**
+- Have a look at the papers available for reproduction on the [hackmd](https://hackmd.io/o3GZZhRORCOq6HGOLkyg3A). 
 
-2. Select and register a paper
-  - Each paper will have a [hackpad](https://hackmd.io/) enabling recording the outcomes
-  - Add your details in the participants section of the hackpad so we have a complete list of participants.
-  - Register your team and paper by logging the title of the selected paper and the name(s) of the reviewer(s) in the hackpad. You can use the following template:
+**2. Project registration and team formation**
+- Feel free to work on your own if you prefer, but 
+- We highly recommend to work together and discuss your experiences with fellow participants as you work.
+- Register your project & team: add your details to the [hackmd](https://hackmd.io/o3GZZhRORCOq6HGOLkyg3A)
 
-**Paper:** *Title of the paper*
-**Reviewers:** *Reviewer 1, Reviewer 2, etc.*
+**3. Reprohack!**
+- Follow any instructions/documentation associated with the papers and try and reproduce the data analysis. 
+- As you work through your paper, keep in mind the following points: Findability, Accessibility, Reproducibility, Documentation and Reusability.
+- We encourage you to use the event hackpad to record general findings you wish to share with everyone. 
 
-```
-**Paper:** *Title of the paper reproduced*
-**Reviewers:** *Reviewer 1, Reviewer 2 etc.*
-```
+**4. Mid-point regroup**
+- Which paper have you selected? Briefly describe what it's about.
+- Briefly describe the approach to reproducibility the paper has taken.
+- Anything in particular you like about the paper's approach so far?
+- Anything you're having difficulty with? Maybe there is someone that can help you?
 
-**Work on the paper:**
-Follow any instructions/documentation associated with the papers and try and reproduce the data analysis. As you work through your paper, keep in mind the following points: Findability, Accessibility, Reproducibility, Documentation and Reusability. Feel free to use the event hackpad to record general findings you wish to share with the group.
+**5. Feedback to the authors**
+- Complete the [feedback form](https://forms.gle/uHxV588JztGuiB887) for the authors of the paper
+- We expect that any feedback and criticism on authors’ work is expressed in a constructive, friendly and respectful manner.
 
+
+**6. Final regroup**
+- How was it? Any final comments?
+- What will you take home? 
+- If there's time, tackle some discussion topics from the hackmd
+- Feedback for the organizers. 
+
+**Additional activities**: 
 You might want to consider attempting to replicate the results, for example, if the code is in R consider translating the analysis to python and examining whether you are getting the same results. Such a contribution would be appropriate for publication in the ReScience C journal! Have a look at the journals website for further details.
 
 Should you finish reproducing your paper quickly, feel free to explore the work more deeply. For example, you could try and run additional analyses, create new plots or even combine materials with your own or other open materials available on the web!
 
 Should you produce any additional materials relating to your reproduction during the session, we ask that you share it publicly and add any links to such materials to the hackpad.
 
-4. Leave feedback for the authors
-
-We encourage to fill in a feedback form on the paper that you picked after the hackaton. We expect that any feedback and criticism on authors’ work is expressed in a constructive, friendly and respectful manner.
-
-Please complete the [feedback form](google.be). Please also remember to be respectful and constructive. Here’s an example of feedback to authors.
-Take notes for yourself.
-
+----
 
 ![logo](img/logo.png)
+
+<img src="img/logo.png" alt="reprohack" width=35%>
 
 This hackaton is based on the work of the ReproHack movement in the Netherlands which you can find at https://github.com/reprohack. In favor of a more Life Sciences related edition, this material was slightly adapted.
