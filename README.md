@@ -76,8 +76,21 @@ Laurent Gatto, Lisa M Breckels, Kathryn S Lilley (2019) Current Opinion in Chemi
 **Data URL:** https://www.biorxiv.org/content/biorxiv/early/2020/07/06/2020.07.06.188003/DC1/embed/media-1.pdf?download=true   
 **Code URL:** https://github.com/pachterlab/GRNP_2020  
  
-
 **Tags:** `R`, `scRNA-seq`
 
-### 5. Your paper?    
+
+### 5. Genotyping Polyploids from Messy Sequencing Data
+**Paper:** Gerard, D., Ferrão, L. F. V., Garcia, A. A. F., & Stephens, M. (2018). Genotyping polyploids from messy sequencing data. Genetics, 210(3), 789-807.
+
+
+**Why should we attempt to reproduce this paper?** Full reproducible empirical analysis available in Github. They created an R package called updog that implement the method. It should be fairly simple (not many commands). Problem might be dependecies of the packages though...
+
+
+**Paper URL:** https://www.genetics.org/content/210/3/789 
+**Data URL:** ftp://ftp.kazusa.or.jp/pub/sweetpotato/GeneticMap/ 
+**Code URL:** https://github.com/dcgerard/reproduce_genotyping
+ 
+**Tags:** `R`, `genotyping`
+
+### 6. Your paper?    
 Nominate a paper by filling in [this link](https://forms.gle/VQCkWdifUhL6EWja8)  
